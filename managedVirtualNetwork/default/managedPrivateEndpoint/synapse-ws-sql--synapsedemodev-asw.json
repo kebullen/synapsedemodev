@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--synapsedemodev-asw",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/1acd996f-c0d7-40a2-9a01-988ebb99cb81/resourceGroups/synapsedemodev-rg/providers/Microsoft.Synapse/workspaces/synapsedemodev-asw",
+		"groupId": "sql",
+		"fqdns": [
+			"synapsedemodev-asw.6f8e920f-0628-4d6e-80d3-98cf8432e5c4.sql.azuresynapse.net"
+		]
+	}
+}
