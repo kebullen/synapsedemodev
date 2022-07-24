@@ -1,7 +1,0 @@
-{
-	"name": "default_workspace_adls_mpe",
-	"properties": {
-		"privateLinkResourceId": "/subscriptions/1acd996f-c0d7-40a2-9a01-988ebb99cb81/resourceGroups/synapsedemodev-rg/providers/Microsoft.Storage/storageAccounts/synapsedemodevadls",
-		"groupId": "dfs"
-	}
-}
